@@ -1,5 +1,5 @@
 # **Building in IT, Cloud, and Cybersecurity**  
-<sub><em>Last updated: August 22, 2025</em></sub>
+<sub><em>Last updated: August 25, 2025</em></sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=florasteve&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -21,7 +21,33 @@
 <sub><em>Content coming soon.</em></sub>
 
 ## 🗂️ Projects
-<sub><em>Content coming soon.</em></sub>
+
+### SSMS Projects
+- **[Library Book Management System](https://github.com/florasteve/library-book-management-system)**  
+  <sub><em>Content coming soon.</em></sub>
+
+- **[Hospital Patient Management System](https://github.com/florasteve/hospital-patient-management-system)**  
+  <sub><em>Content coming soon.</em></sub>
+
+- **[Online Store Database](https://github.com/florasteve/online-store-database)**  
+  <sub><em>Content coming soon.</em></sub>
+
+- **[Movie Rental System](https://github.com/florasteve/movie-rental-system)**  
+  <sub><em>Content coming soon.</em></sub>
+
+### ASU - WCOB Projects
+- **[Comparative Market Analysis](https://github.com/florasteve/comparative-market-analysis)**  
+  <sub><em>Content coming soon.</em></sub>
+
+- **[Ink-Sync Scheduler](https://github.com/florasteve/ink-sync-scheduler)**  
+  <sub><em>Content coming soon.</em></sub>
+
+### WS2022-DC01 Projects
+- **[Contact Management System - Database and Visualization](https://github.com/florasteve/contact-management-system-database-and-visualization)**  
+  <sub><em>Content coming soon.</em></sub>
+
+- **[Windows Server 2022 Virtualized, Network Environment](https://github.com/florasteve/windows-server-2022-virtualized-network-environment)**  
+  <sub><em>Content coming soon.</em></sub>
 
 ---
 
@@ -106,7 +132,7 @@
 ## 📇 Contact Information  
 - 🔗 Follow and Connect on [LinkedIn](https://www.linkedin.com/in/stevefloraii)  
 - 📧 Email: [SLFlora96@gmail.com](mailto:SLFlora96@gmail.com)  
-- 💼 [Résumé (PDF)]
+- 💼 [Résumé (PDF)]  
 
 ---
 
