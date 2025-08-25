@@ -22,18 +22,18 @@
 
 ## 🗂️ Projects
 
-### SSMS Projects
+### SSMS Projects (Work in Progress)
 - **[Library Book Management System](https://github.com/florasteve/library-book-management-system)**  
-  <sub><em>Relational database built in SSMS to organize books, borrowers, and loans with FK-backed integrity and clear reporting queries. **(Work in Progress)**</em></sub>
+  <sub><em>Relational database built in SSMS to organize books, borrowers, and loans with FK-backed integrity and clear reporting queries.</em></sub>
 
 - **[Hospital Patient Management System](https://github.com/florasteve/hospital-patient-management-system)**  
   <sub><em>SSMS-based relational database to manage patient records, doctor details, and appointment scheduling with FK-backed integrity and reporting queries.</em></sub>
 
 - **[Online Store Database](https://github.com/florasteve/online-store-database)**  
-  <sub><em>Content coming soon.</em></sub>
+  <sub><em>SSMS-based relational database to track customers, products, orders, and order items with FK-backed integrity—built for sales analytics and e-commerce ops.</em></sub>
 
 - **[Movie Rental System](https://github.com/florasteve/movie-rental-system)**  
-  <sub><em>Content coming soon.</em></sub>
+  <sub><em>SSMS-based relational database to manage movies, customers, and rentals with FK-backed integrity, inventory tracking, and reporting queries.</em></sub>
 
 ### ASU - WCOB Projects
 - **[Comparative Market Analysis](https://github.com/florasteve/comparative-market-analysis)**  
