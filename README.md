@@ -24,7 +24,7 @@
 
 ### SSMS Projects
 - **[Library Book Management System](https://github.com/florasteve/library-book-management-system)**  
-  <sub><em>Content coming soon.</em></sub>
+  <sub><em>Relational database built in SSMS to organize books, borrowers, and loans with FK-backed integrity and clear reporting queries.</em></sub>
 
 - **[Hospital Patient Management System](https://github.com/florasteve/hospital-patient-management-system)**  
   <sub><em>Content coming soon.</em></sub>
