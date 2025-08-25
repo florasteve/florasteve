@@ -27,7 +27,7 @@
   <sub><em>Relational database built in SSMS to organize books, borrowers, and loans with FK-backed integrity and clear reporting queries. **(Work in Progress)**</em></sub>
 
 - **[Hospital Patient Management System](https://github.com/florasteve/hospital-patient-management-system)**  
-  <sub><em>Content coming soon.</em></sub>
+  <sub><em>SSMS-based relational database to manage patient records, doctor details, and appointment scheduling with FK-backed integrity and reporting queries.</em></sub>
 
 - **[Online Store Database](https://github.com/florasteve/online-store-database)**  
   <sub><em>Content coming soon.</em></sub>
