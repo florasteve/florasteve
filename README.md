@@ -132,7 +132,8 @@
 ## 📇 Contact Information  
 - 🔗 Follow and Connect on [LinkedIn](https://www.linkedin.com/in/stevefloraii)  
 - 📧 Email: [SLFlora96@gmail.com](mailto:SLFlora96@gmail.com)  
-- 💼 [Résumé (PDF)]  
+- 📄 [Résumé (PDF)](https://github.com/florasteve/florasteve/blob/main/assets/Steve_Flora_Resume.pdf)
+
 
 ---
 
