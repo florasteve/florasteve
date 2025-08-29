@@ -1,5 +1,5 @@
 # **Building in IT, Cloud, and Cybersecurity**  
-<sub><em>Last updated: August 27, 2025</em></sub>
+<sub><em>Last updated: August 29, 2025</em></sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=florasteve&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -11,14 +11,40 @@
 
 ---
 
+*Note: This GitHub is a work in progress as I continue to apply my certifications and grow hands-on experience through personal projects and professional opportunities.*
+
+---
+
 ## 🧭 Professional Overview
-<sub><em>Content coming soon.</em></sub>
+I am a graduate of **Computer Information Systems** with a strong foundation in **IT infrastructure, cloud computing, and cybersecurity**. My background includes practical experience configuring and managing **Windows Server 2022 environments, Active Directory, DNS, DHCP, and SQL databases**. This experience is complemented by exposure to **AWS-native solutions** during my internship with **InfusionPoints**.  
+
+I hold industry-recognized certifications, including **AWS Certified Solutions Architect – Associate** and **AWS Certified Cloud Practitioner**, as well as **CompTIA A+ and ITF+**, **Fortinet NSE 1 & 2**, and **SQL (Beginner & Intermediate)**. These certifications demonstrate both my technical expertise and my dedication to ongoing professional development.  
+
+Currently, I am expanding my hands-on capabilities through a portfolio of projects in **cloud engineering, DevOps, and database design**. I am also exploring how **Artificial Intelligence can be integrated with cloud and cybersecurity solutions**, particularly in areas such as automation, compliance, and threat detection. My goal is to leverage my certifications, IT foundation, and adaptability to contribute to building secure, scalable, and forward-looking systems.
+
+---
 
 ## 👤 Who I Am
-<sub><em>Content coming soon.</em></sub>
+I am a **dedicated and detail-oriented IT professional** who excels at the intersection of **infrastructure, cloud, and security**. My professional journey has emphasized adaptability and growth—whether deploying virtualized environments, automating tasks with **Python and PowerShell**, or experimenting with **Infrastructure as Code** using **Terraform and CloudFormation**.  
+
+I bring a combination of **technical expertise, strong communication skills, and a collaborative mindset** to every project I undertake. I value precision, security, and efficiency, and I approach each challenge with a methodical yet innovative perspective.  
+
+Looking forward, I am particularly interested in how **AI and machine learning can enhance cloud engineering and cybersecurity practices**. By integrating AI-driven insights with my existing knowledge of infrastructure, compliance, and security frameworks, I aim to help organizations build systems that are not only reliable but also intelligent, resilient, and effective.
+
+---
 
 ## 💼 2025 Internship with InfusionPoints
-<sub><em>Content coming soon.</em></sub>
+During my internship at **InfusionPoints**, I supported cross-functional teams across the **Security Operations Center (SOC), Advisory, Cloud Operations, and Engineering** departments. This role provided hands-on exposure to cloud security, compliance, and operations in a consulting environment serving both commercial and federal clients.  
+
+Key contributions included:  
+- **Compliance & Documentation:** Conducted research, compiled data, and assisted in the development of security and compliance documentation aligned with **FedRAMP 20X, DoD IL4/IL5, CMMC, and CSP/APN partner requirements**.  
+- **Technical Support & Training:** Completed structured onboarding modules and earned **AWS Certified Cloud Practitioner** and **AWS Solutions Architect – Associate** certifications, reinforcing my technical foundation in cloud architecture and migration.  
+- **Collaboration & Process Improvement:** Worked alongside interns and senior staff on **automation initiatives and process-improvement projects**, contributing ideas to enhance internal workflows and client deliverables.  
+- **Engagement & Professionalism:** Actively participated in daily and weekly meetings, documented key action items, and consistently maintained professionalism in alignment with company policies, confidentiality agreements (NDA), and cultural values.  
+
+This internship enabled me to integrate my academic knowledge with practical experience, strengthen my understanding of cloud security and compliance frameworks, and gain a clearer perspective on how cloud engineering, cybersecurity, and compliance intersect in a professional setting.
+
+---
 
 ## 🗂️ Projects
 
@@ -48,6 +74,32 @@
 
 - **[Windows Server 2022 Virtualized, Network Environment](https://github.com/florasteve/windows-server-2022-virtualized-network-environment)**  
   <sub><em>Content coming soon.</em></sub>
+
+---
+
+## 🔮 Future Projects  
+As I continue expanding my hands-on experience, I am actively planning projects that combine my background in **cloud engineering, IT infrastructure, and cybersecurity** with emerging technologies such as **Artificial Intelligence**. These projects will serve as both learning opportunities and portfolio showcases.  
+
+Planned initiatives include:  
+
+- **Cloud Migration Lab (AWS Focused)**  
+  A step-by-step migration of workloads from an on-premises simulation to AWS using **Application Migration Service (MGN)** and **Database Migration Service (DMS)**. This project will document the full process: assessment, migration, testing, and post-migration optimization.  
+
+- **Infrastructure as Code Starter Kit**  
+  Templates using **Terraform** and **AWS CloudFormation** to provision common AWS resources (VPCs, EC2, IAM roles, and S3). This repository will demonstrate reusable, well-documented IaC patterns.  
+
+- **AI-Assisted Cost Optimization on AWS**  
+  A project that explores integrating **machine learning models** with AWS billing and usage data to recommend cost-saving strategies (e.g., instance right-sizing, storage tiering).  
+
+- **Security Monitoring with AI + AWS**  
+  Using **CloudTrail logs** and AI models to detect unusual login behavior or configuration changes. This project will showcase how AI/ML can enhance **threat detection and incident response**.  
+
+- **Automated Compliance Dashboard**  
+  A proof-of-concept tool that maps AWS account configurations against frameworks such as **FedRAMP Moderate** or **NIST 800-53**, highlighting gaps and remediation steps.  
+
+---
+
+*These projects are in the planning and development stage, reflecting my ongoing effort to translate certifications and theoretical knowledge into practical, real-world applications.*  
 
 ---
 
