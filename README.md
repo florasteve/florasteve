@@ -16,7 +16,7 @@
 ---
 
 ## 🧭 Professional Overview
-I am a graduate of **Computer Information Systems** with a strong foundation in **IT infrastructure, cloud computing, and cybersecurity**. My background includes practical experience configuring and managing **Windows Server 2022 environments, Active Directory, DNS, DHCP, and SQL databases**. This experience is complemented by exposure to **AWS-native solutions** during my internship with **InfusionPoints**.  
+I am a graduate of Appalachian State University with a degree in **Computer Information Systems (BSBA)**, possessing a strong foundation in **IT infrastructure, cloud computing, and cybersecurity**. My background includes practical experience configuring and managing **Windows Server 2022 environments, Active Directory, DNS, DHCP, and SQL databases**. This experience is complemented by exposure to **AWS-native solutions** during my internship with **InfusionPoints**.  
 
 I hold industry-recognized certifications, including **AWS Certified Solutions Architect – Associate** and **AWS Certified Cloud Practitioner**, as well as **CompTIA A+ and ITF+**, **Fortinet NSE 1 & 2**, and **SQL (Beginner & Intermediate)**. These certifications demonstrate both my technical expertise and my dedication to ongoing professional development.  
 
