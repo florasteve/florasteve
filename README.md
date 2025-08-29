@@ -3,7 +3,7 @@
 # **Building in IT, Cloud, and Cybersecurity**
 <sub><em>A portfolio of projects demonstrating applied skills, certifications, and continuous learning.</em></sub>
 
-<sub><em>Last updated: August 29, 2025</em></sub>
+<sub><em>Profile actively maintained — see Projects section for latest updates.</em></sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=florasteve&label=Profile%20views&color=0e75b6&style=flat)
 
