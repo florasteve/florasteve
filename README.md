@@ -11,7 +11,7 @@
 
 ---
 
-*Note: This GitHub is a work in progress as I continue to apply my certifications and grow hands-on experience through personal projects and professional opportunities.*
+> **Disclaimer:** *This GitHub is a work in progress as I continue to apply my certifications and grow hands-on experience through personal projects and professional opportunities.*
 
 ---
 
@@ -73,7 +73,7 @@ This internship enabled me to integrate my academic knowledge with practical exp
   <sub><em>Content coming soon.</em></sub>
 
 - **[Windows Server 2022 Virtualized, Network Environment](https://github.com/florasteve/windows-server-2022-virtualized-network-environment)**  
-  <sub><em>Content coming soon.</em></sub>
+  <sub><em>Designed and managed a Windows Server 2022 domain environment with Hyper-V virtualization, Active Directory, DNS, DHCP, IIS, and Group Policy. Implemented backup and disaster recovery strategies, automated maintenance with Python and Task Scheduler, and optimized system performance, scalability, and security for business IT operations.</em></sub>
 
 ---
 
@@ -99,7 +99,7 @@ Planned initiatives include:
 
 ---
 
-*These projects are in the planning and development stage, reflecting my ongoing effort to translate certifications and theoretical knowledge into practical, real-world applications.*  
+> **Note:** *These projects are in the planning and development stage, reflecting my ongoing effort to translate certifications and theoretical knowledge into practical, real-world applications.*  
 
 ---
 
