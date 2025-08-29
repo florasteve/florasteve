@@ -68,14 +68,14 @@ This internship enabled me to integrate my academic knowledge with practical exp
 
 ### ASU - WCOB Projects
 - **[Comparative Market Analysis](https://github.com/florasteve/comparative-market-analysis)**  
-  <sub><em>Content coming soon.</em></sub>
+  <sub><em>Project complete – documentation in progress.</em></sub>
 
 - **[Ink-Sync Scheduler](https://github.com/florasteve/ink-sync-scheduler)**  
-  <sub><em>Content coming soon.</em></sub>
+  <sub><em>Project complete – documentation in progress.</em></sub>
 
 ### WS2022-DC01 Projects
 - **[Contact Management System - Database and Visualization](https://github.com/florasteve/contact-management-system-database-and-visualization)**  
-  <sub><em>Content coming soon.</em></sub>
+  <sub><em>Project complete – documentation in progress.</em></sub>
 
 - **[Windows Server 2022 Virtualized, Network Environment](https://github.com/florasteve/windows-server-2022-virtualized-network-environment)**  
   <sub><em>Designed and managed a Windows Server 2022 domain environment with Hyper-V virtualization, Active Directory, DNS, DHCP, IIS, and Group Policy. Implemented backup and disaster recovery strategies, automated maintenance with Python and Task Scheduler, and optimized system performance, scalability, and security for business IT operations.</em></sub>
