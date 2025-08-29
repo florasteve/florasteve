@@ -5,8 +5,6 @@
 
 <sub><em>Profile actively maintained — see Projects section for latest updates.</em></sub>
 
-![Profile views](https://komarev.com/ghpvc/?username=florasteve&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 💻 **IT & Cloud Enthusiast | Cybersecurity | System Administration**  
@@ -185,6 +183,7 @@ Planned initiatives include:
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=florasteve&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=florasteve&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=florasteve&layout=compact&theme=radical)  
+![Profile views](https://komarev.com/ghpvc/?username=florasteve&label=Profile%20views&color=0e75b6&style=flat)  
 
 <hr>
 
