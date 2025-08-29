@@ -185,7 +185,7 @@ Planned initiatives include:
 ## 📇 Contact Information  
 - 🔗 Follow and Connect on [LinkedIn](https://www.linkedin.com/in/stevefloraii)  
 - 📧 Email: [SLFlora96@gmail.com](mailto:SLFlora96@gmail.com)  
-- 📄 [Résumé (PDF)](https://github.com/florasteve/florasteve/blob/main/assets/Steve_Flora_Resume_Cloud_2025.pdf)
+- 📄 [Résumé (PDF)](https://github.com/florasteve/florasteve/blob/main/assets/Steve_Flora_Resume_08-28-2025.pdf)
 
 
 ---
