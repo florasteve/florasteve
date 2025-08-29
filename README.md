@@ -1,6 +1,8 @@
 *Welcome to my GitHub — a portfolio of IT infrastructure, cloud engineering, and cybersecurity projects, demonstrating applied knowledge in Windows Server, SQL, AWS, and security frameworks. This space highlights my certifications, technical skills, and commitment to continuous learning through hands-on, practical projects.*
 
-# **Building in IT, Cloud, and Cybersecurity**  
+# **Building in IT, Cloud, and Cybersecurity**
+<sub><em>A portfolio of projects demonstrating applied skills, certifications, and continuous learning.</em></sub>
+
 <sub><em>Last updated: August 29, 2025</em></sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=florasteve&label=Profile%20views&color=0e75b6&style=flat)
