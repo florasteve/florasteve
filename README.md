@@ -46,9 +46,10 @@ This internship enabled me to integrate my academic knowledge with practical exp
 
 ---
 
-## 🗂️ Projects
+## 🗂️ Projects (Work in Progress)
+<sub><em>All projects listed below have been completed; however, this section is a work in progress as I am currently formatting and adding documentation, related files, screenshots, and other supporting materials to each repository.</em></sub>
 
-### SSMS Projects (Work in Progress)
+### SSMS Projects
 - **[Library Book Management System](https://github.com/florasteve/library-book-management-system)**  
   <sub><em>Relational database built in SSMS to organize books, borrowers, and loans with FK-backed integrity and clear reporting queries.</em></sub>
 
