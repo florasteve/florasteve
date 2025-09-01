@@ -172,8 +172,8 @@ Planned initiatives include:
 
 **Operating Systems & Cloud**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)  
+&nbsp;&nbsp;&nbsp; └─ ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+&nbsp;&nbsp;&nbsp; └─ ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Azure Arc (Learning)](https://img.shields.io/badge/Azure%20Arc-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Google Cloud (Learning)](https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
