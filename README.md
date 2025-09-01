@@ -152,16 +152,18 @@ Planned initiatives include:
 ## 🛠️ Skills  
 
 **Infrastructure & Networking**  
-![DHCP](https://img.shields.io/badge/-DHCP-217346?style=for-the-badge)  
-![DNS](https://img.shields.io/badge/-DNS%20Management-0052CC?style=for-the-badge)  
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)  
+![DHCP](https://img.shields.io/badge/-DHCP-217346?style=for-the-badge)  
+![DNS](https://img.shields.io/badge/-DNS-0052CC?style=for-the-badge)  
 ![Group Policy](https://img.shields.io/badge/-Group%20Policy-0078D4?style=for-the-badge&logo=windows&logoColor=white)  
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![IIS](https://img.shields.io/badge/-IIS-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![Virtualization](https://img.shields.io/badge/-Virtualization-4285F4?style=for-the-badge&logo=vmware&logoColor=white)  
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+
+**Network Analysis Tools**  
+![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=nmap&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Zenmap (Nmap)](https://img.shields.io/badge/Zenmap%20(Nmap)-2C2C2C?style=for-the-badge&logo=nmap&logoColor=white)  
 
 **Scripting & Programming**  
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
