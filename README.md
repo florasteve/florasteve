@@ -159,36 +159,22 @@ Planned initiatives include:
 ![Azure Arc (Learning)](https://img.shields.io/badge/Azure%20Arc-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Google Cloud (Learning)](https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
-**Security & Compliance Frameworks**  
-[![CMMC](https://img.shields.io/badge/-CMMC-6A0DAD?style=for-the-badge)](https://dodcio.defense.gov/CMMC/)  
-<sub><em>**CMMC** – The Cybersecurity Maturity Model Certification, designed to assess and enhance the cybersecurity posture of defense contractors in the U.S. Department of Defense supply chain.</em></sub>  
+**Security & Compliance Frameworks**
 
-[![FedRAMP](https://img.shields.io/badge/-FedRAMP-0052CC?style=for-the-badge)](https://www.fedramp.gov/)  
-<sub><em>**FedRAMP** – The Federal Risk and Authorization Management Program, standardizing security assessment, authorization, and continuous monitoring for cloud products and services.</em></sub>  
+| Framework | Description |
+|-----------|-------------|
+| [![CMMC](https://img.shields.io/badge/-CMMC-6A0DAD?style=for-the-badge)](https://dodcio.defense.gov/CMMC/) | **CMMC** – Cybersecurity Maturity Model Certification used to assess and enhance the cybersecurity posture of DoD contractors. |
+| [![FedRAMP](https://img.shields.io/badge/-FedRAMP-0052CC?style=for-the-badge)](https://www.fedramp.gov/) | **FedRAMP** – Federal Risk and Authorization Management Program standardizing cloud security assessment, authorization, and continuous monitoring. |
+| [![FISMA](https://img.shields.io/badge/-FISMA-2E8B57?style=for-the-badge)](https://www.cisa.gov/topics/cybersecurity-best-practices/laws-and-authorities/federal-information-security-management-act) | **FISMA** – U.S. legislation establishing a framework for securing federal information systems. |
+| [![GDPR](https://img.shields.io/badge/-GDPR-00008B?style=for-the-badge)](https://gdpr-info.eu/) | **GDPR** – EU regulation focused on data protection and privacy. |
+| [![HIPAA](https://img.shields.io/badge/-HIPAA-008080?style=for-the-badge)](https://www.hhs.gov/hipaa/index.html) | **HIPAA** – U.S. legislation mandating the protection of sensitive patient health information. |
+| [![ISO 27001](https://img.shields.io/badge/-ISO%2027001-4682B4?style=for-the-badge)](https://www.iso.org/isoiec-27001-information-security.html) | **ISO/IEC 27001** – International standard for establishing, implementing, and maintaining an information security management system (ISMS). |
+| [![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-FF0000?style=for-the-badge)](https://attack.mitre.org/) | **MITRE ATT&CK** – Knowledge base of adversary tactics and techniques derived from real-world cyberattacks. |
+| [![NIST 800-53](https://img.shields.io/badge/-NIST%20800--53-003366?style=for-the-badge)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) | **NIST SP 800-53** – Security and privacy controls for federal information systems and organizations. |
+| [![PCI DSS](https://img.shields.io/badge/-PCI%20DSS-FF8C00?style=for-the-badge)](https://www.pcisecuritystandards.org/pci_security/) | **PCI DSS** – Global standard ensuring secure handling of credit card transactions and cardholder data. |
+| [![SOC 2](https://img.shields.io/badge/-SOC%202-4B0082?style=for-the-badge)](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome.html) | **SOC 2** – Framework for managing customer data based on security, availability, processing integrity, confidentiality, and privacy principles. |
 
-[![FISMA](https://img.shields.io/badge/-FISMA-2E8B57?style=for-the-badge)](https://www.cisa.gov/topics/cybersecurity-best-practices/laws-and-authorities/federal-information-security-management-act)  
-<sub><em>**Federal Information Security Management Act (FISMA)** – U.S. legislation that defines a framework for securing federal government information systems.</em></sub>  
-
-[![GDPR](https://img.shields.io/badge/-GDPR-00008B?style=for-the-badge)](https://gdpr-info.eu/)  
-<sub><em>**GDPR** – The General Data Protection Regulation, a European Union law focused on data protection and privacy.</em></sub>  
-
-[![HIPAA](https://img.shields.io/badge/-HIPAA-008080?style=for-the-badge)](https://www.hhs.gov/hipaa/index.html)  
-<sub><em>**HIPAA** – The Health Insurance Portability and Accountability Act, U.S. legislation that mandates the protection of sensitive patient health information.</em></sub>  
-
-[![ISO 27001](https://img.shields.io/badge/-ISO%2027001-4682B4?style=for-the-badge)](https://www.iso.org/isoiec-27001-information-security.html)  
-<sub><em>**ISO/IEC 27001** – An international standard for managing information security management systems (ISMS).</em></sub>  
-
-[![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-FF0000?style=for-the-badge)](https://attack.mitre.org/)  
-<sub><em>**MITRE ATT&CK Framework** – A knowledge base of adversary tactics and techniques used in real-world cyberattacks.</em></sub>  
-
-[![NIST 800-53](https://img.shields.io/badge/-NIST%20800--53-003366?style=for-the-badge)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)  
-<sub><em>**NIST SP 800-53** – A catalog of security and privacy controls for federal information systems and organizations.</em></sub>  
-
-[![PCI DSS](https://img.shields.io/badge/-PCI%20DSS-FF8C00?style=for-the-badge)](https://www.pcisecuritystandards.org/pci_security/)  
-<sub><em>**PCI DSS** – The Payment Card Industry Data Security Standard, designed to protect cardholder data and ensure secure payment processing.</em></sub>  
-
-[![SOC 2](https://img.shields.io/badge/-SOC%202-4B0082?style=for-the-badge)](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome.html)  
-<sub><em>**SOC 2** – A framework for managing customer data based on five trust service principles: security, availability, processing integrity, confidentiality, and privacy.</em></sub>
+<sub><em>Collectively, these frameworks represent a broad foundation in compliance, cloud security, data privacy, and risk management.</em></sub>  
 
 **Data & Visualization**  
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
