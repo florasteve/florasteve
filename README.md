@@ -120,20 +120,18 @@ Planned initiatives include:
 
 ## 📜 Certifications  
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/71dec2c2-cf23-48be-9674-d63e07be7103)  
 [![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ea7f5d60-0eaa-444d-a406-99f0490ee6ce)  
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/71dec2c2-cf23-48be-9674-d63e07be7103)  
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1F26?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/884ca148-2284-4278-bf99-985745da71e7)  
 [![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-EA1F26?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/61006d1b-3f7b-451b-a557-4bed0686e600)  
-[![Fortinet NSE 1](https://img.shields.io/badge/Fortinet-NSE%201-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://training.fortinet.com/mod/customcert/verify_certificate.php)  
-<sub><em>Credential ID: atY4iMBQ1C</em></sub>
-
-[![Fortinet NSE 2](https://img.shields.io/badge/Fortinet-NSE%202-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://training.fortinet.com/mod/customcert/verify_certificate.php)  
-<sub><em>Credential ID: Gi1FCiaCxV</em></sub>
-
-[![SQL Introduction](https://img.shields.io/badge/DataCamp-SQL%20Intro-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/fbf8ca65da152041aa4ff82f5bfe0947fc3422e1)  
 [![SQL Intermediate](https://img.shields.io/badge/DataCamp-SQL%20Intermediate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/a4600d59cf1e9dee8944b5f0748991229e0cfea5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)  
+[![SQL Introduction](https://img.shields.io/badge/DataCamp-SQL%20Intro-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/fbf8ca65da152041aa4ff82f5bfe0947fc3422e1)  
 [![IBM Blockchain Essentials V2](https://img.shields.io/badge/IBM-Blockchain%20Essentials%20V2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/ee501a62-8f9a-415c-9520-d56964b7f2df)  
-  
+[![Fortinet NSE 2](https://img.shields.io/badge/Fortinet-NSE%202-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://training.fortinet.com/mod/customcert/verify_certificate.php)  
+<sub><em>Credential ID: Gi1FCiaCxV</em></sub>  
+
+[![Fortinet NSE 1](https://img.shields.io/badge/Fortinet-NSE%201-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://training.fortinet.com/mod/customcert/verify_certificate.php)  
+<sub><em>Credential ID: atY4iMBQ1C</em></sub>  
 
 ---
 
