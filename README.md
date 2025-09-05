@@ -80,6 +80,10 @@ This internship enabled me to integrate my academic knowledge with practical exp
 - **[Windows Server 2022 Virtualized, Network Environment](https://github.com/florasteve/windows-server-2022-virtualized-network-environment)**  
   <sub><em>Designed and managed a Windows Server 2022 domain environment with Hyper-V virtualization, Active Directory, DNS, DHCP, IIS, and Group Policy. Implemented backup and disaster recovery strategies, automated maintenance with Python and Task Scheduler, and optimized system performance, scalability, and security for business IT operations.</em></sub>
 
+### ML / AI / LLM Projects
+- **[ML Foundations — Day 1: Linear Algebra](https://github.com/florasteve/ml-foundations-day1)**  
+  <sub><em>Built as a Jupyter notebook (Python, NumPy, Matplotlib) and exported to the web via nbconvert/GitHub Pages. Implements dot products, norms, angles, projections, and 2×2 matrix transforms with clear visuals. Shows how these linear-algebra primitives map directly to ML/AI—similarity (embeddings/attention), least squares (projections), and geometric transforms—forming the foundation for understanding model behavior.</em></sub>
+
 ---
 
 ## 🔮 Future Projects  
