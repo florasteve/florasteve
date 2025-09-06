@@ -84,9 +84,8 @@ This internship enabled me to integrate my academic knowledge with practical exp
 - **[ML Foundations — Day 1: Linear Algebra](https://github.com/florasteve/ml-foundations-day1)**  
   <sub><em>Built as a Jupyter notebook (Python, NumPy, Matplotlib) and exported to the web via nbconvert/GitHub Pages. Implements dot products, norms, angles, projections, and 2×2 matrix transforms with clear visuals. Shows how these linear-algebra primitives map directly to ML/AI—similarity (embeddings/attention), least squares (projections), and geometric transforms—forming the foundation for understanding model behavior.</em></sub>
 
-- **[ML Foundations — Day 2: Probability, Stats & Logistic Regression](https://github.com/florasteve/ml-foundations-day2)**  
-  <sub><em>In progress — notebooks, HR churn demo, model card v0.</em></sub>  
-  <sub>Probability/stats refresh (Bernoulli, Binomial, CLT, Bayes) and logistic regression (NumPy + scikit-learn parity). Includes a tiny SQL→pandas→ML pipeline and Colab links.</sub>
+- **[ML Foundations — Day 2: Probability, Stats & Logistic Regression](https://github.com/florasteve/ml-foundations-day2)**    
+  <sub><em>Probability/stats refresh (Bernoulli, Binomial, CLT, Bayes) and logistic regression (NumPy + scikit-learn parity). Includes a tiny SQL→pandas→ML pipeline and Colab links.</em></sub>
 
 ---
 
