@@ -87,6 +87,9 @@ This internship enabled me to integrate my academic knowledge with practical exp
 - **[ML Foundations — Day 2: Probability, Stats & Logistic Regression](https://github.com/florasteve/ml-foundations-day2)**    
   <sub><em>Probability/stats refresh (Bernoulli, Binomial, CLT, Bayes) and logistic regression (NumPy + scikit-learn parity). Includes a tiny SQL→pandas→ML pipeline and Colab links.</em></sub>
 
+- **[ML Foundations — Day 3: EDA, Baselines & Metrics](https://github.com/florasteve/ml-foundations-day3)**  
+  <sub><em>EDA & light feature engineering on a tiny HR churn dataset; simple logistic baselines; ROC/AUC & Precision–Recall analysis; threshold tuning for business-friendly decisions. Includes Colab links and GitHub Pages HTML exports.</em></sub>
+
 ---
 
 ## 🔮 Future Projects  
