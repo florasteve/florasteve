@@ -90,6 +90,9 @@ This internship enabled me to integrate my academic knowledge with practical exp
 - **[ML Foundations — Day 3: EDA, Baselines & Metrics](https://github.com/florasteve/ml-foundations-day3)**  
   <sub><em>EDA & light feature engineering on a tiny HR churn dataset; simple logistic baselines; ROC/AUC & Precision–Recall analysis; threshold tuning for business-friendly decisions. Includes Colab links and GitHub Pages HTML exports.</em></sub>
 
+- **[ML Foundations — Day 4: Gradient Descent](https://github.com/florasteve/ml-foundations-day4)**  
+  <sub><em>Implemented gradient descent from scratch in NumPy with loss surface visualizations; explored learning rates, convergence, and optimization intuition.</em></sub>
+
 ---
 
 ## 🔮 Future Projects  
