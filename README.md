@@ -49,7 +49,7 @@ This internship enabled me to integrate my academic knowledge with practical exp
 ---
 
 ## 🗂️ Projects (Work in Progress)
-<sub><em>Last updated: September 8, 2025</em></sub>
+<sub><em>Last updated: September 9, 2025</em></sub>
 
 <sub><em>All projects listed below have been completed; however, this section is a work in progress as I am currently formatting and adding documentation, related files, screenshots, and other supporting materials to each repository.</em></sub>
 
@@ -91,7 +91,8 @@ This internship enabled me to integrate my academic knowledge with practical exp
   <sub><em>EDA & light feature engineering on a tiny HR churn dataset; simple logistic baselines; ROC/AUC & Precision–Recall analysis; threshold tuning for business-friendly decisions. Includes Colab links and GitHub Pages HTML exports.</em></sub>
 
 - **[ML Foundations — Day 4: Gradient Descent](https://github.com/florasteve/ml-foundations-day4)**  
-  <sub><em>Implemented gradient descent from scratch in NumPy with loss surface visualizations; explored learning rates, convergence, and optimization intuition.</em></sub>
+  <sub><em>Implemented gradient descent from scratch in NumPy with loss surface visualizations; explored learning rates, convergence, and optimization intuition.</em></sub>  
+  > **Note:** *In the process of reformatting images on README.md (repo homepage)*
 
 ---
 
