@@ -49,7 +49,7 @@ This internship enabled me to integrate my academic knowledge with practical exp
 ---
 
 ## 🗂️ Projects (Work in Progress)
-<sub><em>Last updated: September 9, 2025</em></sub>
+<sub><em>Last updated: September 15, 2025</em></sub>
 
 <sub><em>All projects listed below have been completed; however, this section is a work in progress as I am currently formatting and adding documentation, related files, screenshots, and other supporting materials to each repository.</em></sub>
 
