@@ -1,6 +1,6 @@
 *Welcome to my GitHub — a portfolio of IT infrastructure, cloud engineering, and cybersecurity projects, demonstrating applied knowledge in Windows Server, SQL, AWS, and security frameworks. This space highlights my certifications, technical skills, and commitment to continuous learning through hands-on, practical projects.*
 
-# **Building in IT, Cloud, and Cybersecurity**
+# **Building in IT, Cloud, Cybersecurity, and AI**
 <sub><em>A portfolio of projects demonstrating applied skills, certifications, and continuous learning.</em></sub>
 
 <sub><em>Profile actively maintained — see Projects section for latest updates.</em></sub>
